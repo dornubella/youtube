@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../HTML/Youtube"
+		},
+		{
+			"path": "../HTML/Assignment"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Youtube"
+	}
+}

@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* color: white; */
+}
+body{
+    background-color: rgb(19, 19, 19)
+}
+.navbar{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: auto;
+    background-color: green;
+    display: flex;
+    /* align-content: center; */
+    padding: 6px;
+    gap: 10px;
+}
+.hamburger{ 
+    /* margin-top: 30px; */
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    /* margin-left: 30px; */
+    /* margin-top: 30px; */
+    /* align-content: center; */
+    padding: 10px 8px;
+    
+}
+.hamburger:hover{
+    background-color: rgba(255, 255, 255, 0.114);
+}
+.hamburger > div{
+    width: 25px;
+    height: 2px;
+    background-color: white;
+    margin: 6px;
+    margin-left: 5px;
+    
+
+    
+}
+.hamburger > div:hover{
+    /* background-color: blue; */
+}
+.youtube{
+    background-color: white;
+    width: 120px;
+    height: 60px;
+}
+.icon{
+    background-color: red;
+}
